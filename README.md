@@ -1,4 +1,4 @@
-# Bonjour, je suis islem  👋
+# Bonjour, je suis IBS  👋
 
 Étudiant en informatique, spécialisé en Python avec une forte passion pour l'intelligence artificielle et la cybersécurité. Actuellement, je développe des projets personnels pour renforcer mes compétences et contribuer à des solutions innovantes.
 
